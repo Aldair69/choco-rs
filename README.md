@@ -4,11 +4,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Current version](https://img.shields.io/badge/current_version-0.1.0-blue)
 
-Chocotorta is a **modular Discord bot** inspired by Chocolat, built entirely in **Rust** using the **Serenity*.  
+Chocotorta is a **modular Discord bot** inspired by Chocolat, built entirely in **Rust** using the **Serenity**.  
 It is designed to be fun, collaborative, and fully internationalized using **Project Fluent**.  
 [Español](README.es.md) | [Credits](ACKNOWLEDGEMENTS.md)
 
-![chocotorta](./assets/chocotorta.png)
+<img width="476" height="424" alt="Chocotorta" src="https://github.com/user-attachments/assets/e733392e-2238-435e-8d65-142d2d3afce2" />
+
 
 </div>
 
