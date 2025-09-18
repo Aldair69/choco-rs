@@ -9,6 +9,10 @@ Chocotorta is inspired by and builds upon the work of several projects and resou
 - **Loading a TOML file in Rust**  
   A helpful guide on loading configuration files in Rust, which inspired our `config.toml` implementation.  
   [https://codingpackets.com/blog/rust-load-a-toml-file/](https://codingpackets.com/blog/rust-load-a-toml-file/)
+  
+- **SoulWaveBot by Judas9016**  
+  Provided inspiration and reference for modular bot structure in Rust.  
+  [https://github.com/Judas9016/SoulWaveBot/tree/main](https://github.com/Judas9016/SoulWaveBot/tree/main)
 
 ---
 
